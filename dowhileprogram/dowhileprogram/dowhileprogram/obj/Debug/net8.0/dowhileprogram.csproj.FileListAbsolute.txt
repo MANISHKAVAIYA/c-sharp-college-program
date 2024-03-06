@@ -1,0 +1,14 @@
+D:\github public\dowhileprogram\dowhileprogram\bin\Debug\net8.0\dowhileprogram.exe
+D:\github public\dowhileprogram\dowhileprogram\bin\Debug\net8.0\dowhileprogram.deps.json
+D:\github public\dowhileprogram\dowhileprogram\bin\Debug\net8.0\dowhileprogram.runtimeconfig.json
+D:\github public\dowhileprogram\dowhileprogram\bin\Debug\net8.0\dowhileprogram.dll
+D:\github public\dowhileprogram\dowhileprogram\bin\Debug\net8.0\dowhileprogram.pdb
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.AssemblyInfoInputs.cache
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.AssemblyInfo.cs
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.csproj.CoreCompileInputs.cache
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.dll
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\refint\dowhileprogram.dll
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.pdb
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\dowhileprogram.genruntimeconfig.cache
+D:\github public\dowhileprogram\dowhileprogram\obj\Debug\net8.0\ref\dowhileprogram.dll
