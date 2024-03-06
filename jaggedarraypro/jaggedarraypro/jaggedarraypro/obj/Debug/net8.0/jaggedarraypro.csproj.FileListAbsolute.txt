@@ -1,0 +1,14 @@
+D:\github public\jaggedarraypro\jaggedarraypro\bin\Debug\net8.0\jaggedarraypro.exe
+D:\github public\jaggedarraypro\jaggedarraypro\bin\Debug\net8.0\jaggedarraypro.deps.json
+D:\github public\jaggedarraypro\jaggedarraypro\bin\Debug\net8.0\jaggedarraypro.runtimeconfig.json
+D:\github public\jaggedarraypro\jaggedarraypro\bin\Debug\net8.0\jaggedarraypro.dll
+D:\github public\jaggedarraypro\jaggedarraypro\bin\Debug\net8.0\jaggedarraypro.pdb
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.AssemblyInfoInputs.cache
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.AssemblyInfo.cs
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.csproj.CoreCompileInputs.cache
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.dll
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\refint\jaggedarraypro.dll
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.pdb
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\jaggedarraypro.genruntimeconfig.cache
+D:\github public\jaggedarraypro\jaggedarraypro\obj\Debug\net8.0\ref\jaggedarraypro.dll
