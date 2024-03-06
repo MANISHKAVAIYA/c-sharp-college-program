@@ -1,0 +1,14 @@
+D:\c sharp program\function\funtion 2\bin\Debug\net8.0\funtion 2.exe
+D:\c sharp program\function\funtion 2\bin\Debug\net8.0\funtion 2.deps.json
+D:\c sharp program\function\funtion 2\bin\Debug\net8.0\funtion 2.runtimeconfig.json
+D:\c sharp program\function\funtion 2\bin\Debug\net8.0\funtion 2.dll
+D:\c sharp program\function\funtion 2\bin\Debug\net8.0\funtion 2.pdb
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.AssemblyInfoInputs.cache
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.AssemblyInfo.cs
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.csproj.CoreCompileInputs.cache
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.dll
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\refint\funtion 2.dll
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.pdb
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\funtion 2.genruntimeconfig.cache
+D:\c sharp program\function\funtion 2\obj\Debug\net8.0\ref\funtion 2.dll

@@ -1,0 +1,14 @@
+D:\c sharp program\function\function\bin\Debug\net8.0\function.exe
+D:\c sharp program\function\function\bin\Debug\net8.0\function.deps.json
+D:\c sharp program\function\function\bin\Debug\net8.0\function.runtimeconfig.json
+D:\c sharp program\function\function\bin\Debug\net8.0\function.dll
+D:\c sharp program\function\function\bin\Debug\net8.0\function.pdb
+D:\c sharp program\function\function\obj\Debug\net8.0\function.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\function\function\obj\Debug\net8.0\function.AssemblyInfoInputs.cache
+D:\c sharp program\function\function\obj\Debug\net8.0\function.AssemblyInfo.cs
+D:\c sharp program\function\function\obj\Debug\net8.0\function.csproj.CoreCompileInputs.cache
+D:\c sharp program\function\function\obj\Debug\net8.0\function.dll
+D:\c sharp program\function\function\obj\Debug\net8.0\refint\function.dll
+D:\c sharp program\function\function\obj\Debug\net8.0\function.pdb
+D:\c sharp program\function\function\obj\Debug\net8.0\function.genruntimeconfig.cache
+D:\c sharp program\function\function\obj\Debug\net8.0\ref\function.dll
