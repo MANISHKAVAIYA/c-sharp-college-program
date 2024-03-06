@@ -1,0 +1,14 @@
+D:\github public\for loop pro\for loop pro\bin\Debug\net8.0\for loop pro.exe
+D:\github public\for loop pro\for loop pro\bin\Debug\net8.0\for loop pro.deps.json
+D:\github public\for loop pro\for loop pro\bin\Debug\net8.0\for loop pro.runtimeconfig.json
+D:\github public\for loop pro\for loop pro\bin\Debug\net8.0\for loop pro.dll
+D:\github public\for loop pro\for loop pro\bin\Debug\net8.0\for loop pro.pdb
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.AssemblyInfoInputs.cache
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.AssemblyInfo.cs
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.csproj.CoreCompileInputs.cache
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.dll
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\refint\for loop pro.dll
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.pdb
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\for loop pro.genruntimeconfig.cache
+D:\github public\for loop pro\for loop pro\obj\Debug\net8.0\ref\for loop pro.dll
