@@ -1,0 +1,14 @@
+D:\github public\switch statement\switch statement\bin\Debug\net8.0\switch statement.exe
+D:\github public\switch statement\switch statement\bin\Debug\net8.0\switch statement.deps.json
+D:\github public\switch statement\switch statement\bin\Debug\net8.0\switch statement.runtimeconfig.json
+D:\github public\switch statement\switch statement\bin\Debug\net8.0\switch statement.dll
+D:\github public\switch statement\switch statement\bin\Debug\net8.0\switch statement.pdb
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.AssemblyInfoInputs.cache
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.AssemblyInfo.cs
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.csproj.CoreCompileInputs.cache
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.dll
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\refint\switch statement.dll
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.pdb
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\switch statement.genruntimeconfig.cache
+D:\github public\switch statement\switch statement\obj\Debug\net8.0\ref\switch statement.dll
