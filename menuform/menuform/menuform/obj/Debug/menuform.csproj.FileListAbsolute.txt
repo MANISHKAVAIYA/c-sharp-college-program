@@ -1,0 +1,10 @@
+D:\c sharp program\menuform\menuform\bin\Debug\menuform.exe.config
+D:\c sharp program\menuform\menuform\bin\Debug\menuform.exe
+D:\c sharp program\menuform\menuform\bin\Debug\menuform.pdb
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.csproj.AssemblyReference.cache
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.Form1.resources
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.Properties.Resources.resources
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.csproj.GenerateResource.cache
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.csproj.CoreCompileInputs.cache
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.exe
+D:\c sharp program\menuform\menuform\obj\Debug\menuform.pdb
