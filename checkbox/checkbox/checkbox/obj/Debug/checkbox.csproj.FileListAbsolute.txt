@@ -1,0 +1,10 @@
+D:\c sharp program\checkbox\checkbox\bin\Debug\checkbox.exe.config
+D:\c sharp program\checkbox\checkbox\bin\Debug\checkbox.exe
+D:\c sharp program\checkbox\checkbox\bin\Debug\checkbox.pdb
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.Form1.resources
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.Properties.Resources.resources
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.exe
+D:\c sharp program\checkbox\checkbox\obj\Debug\checkbox.pdb
