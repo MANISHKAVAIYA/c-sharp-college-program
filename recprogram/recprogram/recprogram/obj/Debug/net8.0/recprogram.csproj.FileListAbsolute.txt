@@ -1,0 +1,14 @@
+D:\github public\recprogram\recprogram\bin\Debug\net8.0\recprogram.exe
+D:\github public\recprogram\recprogram\bin\Debug\net8.0\recprogram.deps.json
+D:\github public\recprogram\recprogram\bin\Debug\net8.0\recprogram.runtimeconfig.json
+D:\github public\recprogram\recprogram\bin\Debug\net8.0\recprogram.dll
+D:\github public\recprogram\recprogram\bin\Debug\net8.0\recprogram.pdb
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.AssemblyInfoInputs.cache
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.AssemblyInfo.cs
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.csproj.CoreCompileInputs.cache
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.dll
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\refint\recprogram.dll
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.pdb
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\recprogram.genruntimeconfig.cache
+D:\github public\recprogram\recprogram\obj\Debug\net8.0\ref\recprogram.dll
