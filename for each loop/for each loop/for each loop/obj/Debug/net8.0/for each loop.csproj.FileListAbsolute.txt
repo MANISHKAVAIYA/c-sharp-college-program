@@ -1,0 +1,14 @@
+D:\github public\for each loop\for each loop\bin\Debug\net8.0\for each loop.exe
+D:\github public\for each loop\for each loop\bin\Debug\net8.0\for each loop.deps.json
+D:\github public\for each loop\for each loop\bin\Debug\net8.0\for each loop.runtimeconfig.json
+D:\github public\for each loop\for each loop\bin\Debug\net8.0\for each loop.dll
+D:\github public\for each loop\for each loop\bin\Debug\net8.0\for each loop.pdb
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.AssemblyInfoInputs.cache
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.AssemblyInfo.cs
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.csproj.CoreCompileInputs.cache
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.dll
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\refint\for each loop.dll
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.pdb
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\for each loop.genruntimeconfig.cache
+D:\github public\for each loop\for each loop\obj\Debug\net8.0\ref\for each loop.dll
