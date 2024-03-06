@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\bin\Debug\net8.0\find data value.exe
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\bin\Debug\net8.0\find data value.deps.json
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\bin\Debug\net8.0\find data value.runtimeconfig.json
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\bin\Debug\net8.0\find data value.dll
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\bin\Debug\net8.0\find data value.pdb
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.dll
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\refint\find data value.dll
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.pdb
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\find data value.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\program_c_sharp_2302\find data value\find data value\obj\Debug\net8.0\ref\find data value.dll
