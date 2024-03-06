@@ -1,0 +1,14 @@
+D:\c sharp program\practice program\practice program\bin\Debug\net8.0\practice program.exe
+D:\c sharp program\practice program\practice program\bin\Debug\net8.0\practice program.deps.json
+D:\c sharp program\practice program\practice program\bin\Debug\net8.0\practice program.runtimeconfig.json
+D:\c sharp program\practice program\practice program\bin\Debug\net8.0\practice program.dll
+D:\c sharp program\practice program\practice program\bin\Debug\net8.0\practice program.pdb
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.AssemblyInfoInputs.cache
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.AssemblyInfo.cs
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.csproj.CoreCompileInputs.cache
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.dll
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\refint\practice program.dll
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.pdb
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\practice program.genruntimeconfig.cache
+D:\c sharp program\practice program\practice program\obj\Debug\net8.0\ref\practice program.dll
