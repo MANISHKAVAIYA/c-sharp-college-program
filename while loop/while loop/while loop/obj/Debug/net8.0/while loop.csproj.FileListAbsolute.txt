@@ -1,0 +1,14 @@
+D:\github public\while loop\while loop\bin\Debug\net8.0\while loop.exe
+D:\github public\while loop\while loop\bin\Debug\net8.0\while loop.deps.json
+D:\github public\while loop\while loop\bin\Debug\net8.0\while loop.runtimeconfig.json
+D:\github public\while loop\while loop\bin\Debug\net8.0\while loop.dll
+D:\github public\while loop\while loop\bin\Debug\net8.0\while loop.pdb
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.AssemblyInfoInputs.cache
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.AssemblyInfo.cs
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.csproj.CoreCompileInputs.cache
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.dll
+D:\github public\while loop\while loop\obj\Debug\net8.0\refint\while loop.dll
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.pdb
+D:\github public\while loop\while loop\obj\Debug\net8.0\while loop.genruntimeconfig.cache
+D:\github public\while loop\while loop\obj\Debug\net8.0\ref\while loop.dll
