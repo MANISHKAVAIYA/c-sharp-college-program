@@ -1,0 +1,14 @@
+D:\c sharp program\show alphabet\show alphabet\bin\Debug\net8.0\show alphabet.exe
+D:\c sharp program\show alphabet\show alphabet\bin\Debug\net8.0\show alphabet.deps.json
+D:\c sharp program\show alphabet\show alphabet\bin\Debug\net8.0\show alphabet.runtimeconfig.json
+D:\c sharp program\show alphabet\show alphabet\bin\Debug\net8.0\show alphabet.dll
+D:\c sharp program\show alphabet\show alphabet\bin\Debug\net8.0\show alphabet.pdb
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.AssemblyInfoInputs.cache
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.AssemblyInfo.cs
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.csproj.CoreCompileInputs.cache
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.dll
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\refint\show alphabet.dll
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.pdb
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\show alphabet.genruntimeconfig.cache
+D:\c sharp program\show alphabet\show alphabet\obj\Debug\net8.0\ref\show alphabet.dll
