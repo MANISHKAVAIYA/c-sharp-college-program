@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\bin\Debug\net8.0\property_type2602.exe
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\bin\Debug\net8.0\property_type2602.deps.json
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\bin\Debug\net8.0\property_type2602.runtimeconfig.json
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\bin\Debug\net8.0\property_type2602.dll
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\bin\Debug\net8.0\property_type2602.pdb
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.dll
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\refint\property_type2602.dll
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.pdb
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\property_type2602.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\property_type2602\property_type2602\obj\Debug\net8.0\ref\property_type2602.dll
