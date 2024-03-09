@@ -1,0 +1,14 @@
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\bin\Debug\net8.0\constructor with para.exe
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\bin\Debug\net8.0\constructor with para.deps.json
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\bin\Debug\net8.0\constructor with para.runtimeconfig.json
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\bin\Debug\net8.0\constructor with para.dll
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\bin\Debug\net8.0\constructor with para.pdb
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.dll
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\refint\constructor with para.dll
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.pdb
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\constructor with para.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\constructor with para\constructor with para\obj\Debug\net8.0\ref\constructor with para.dll
