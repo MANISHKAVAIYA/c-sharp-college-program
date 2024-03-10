@@ -1,0 +1,4 @@
+D:\c sharp program\class demo1\class demo1\obj\Debug\net8.0\class demo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\class demo1\class demo1\obj\Debug\net8.0\class demo1.AssemblyInfoInputs.cache
+D:\c sharp program\class demo1\class demo1\obj\Debug\net8.0\class demo1.AssemblyInfo.cs
+D:\c sharp program\class demo1\class demo1\obj\Debug\net8.0\class demo1.csproj.CoreCompileInputs.cache
