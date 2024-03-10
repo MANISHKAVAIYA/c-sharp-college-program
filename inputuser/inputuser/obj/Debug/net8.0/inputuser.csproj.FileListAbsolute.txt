@@ -1,0 +1,14 @@
+D:\c sharp program\inputuser\inputuser\bin\Debug\net8.0\inputuser.exe
+D:\c sharp program\inputuser\inputuser\bin\Debug\net8.0\inputuser.deps.json
+D:\c sharp program\inputuser\inputuser\bin\Debug\net8.0\inputuser.runtimeconfig.json
+D:\c sharp program\inputuser\inputuser\bin\Debug\net8.0\inputuser.dll
+D:\c sharp program\inputuser\inputuser\bin\Debug\net8.0\inputuser.pdb
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.AssemblyInfoInputs.cache
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.AssemblyInfo.cs
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.csproj.CoreCompileInputs.cache
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.dll
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\refint\inputuser.dll
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.pdb
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\inputuser.genruntimeconfig.cache
+D:\c sharp program\inputuser\inputuser\obj\Debug\net8.0\ref\inputuser.dll

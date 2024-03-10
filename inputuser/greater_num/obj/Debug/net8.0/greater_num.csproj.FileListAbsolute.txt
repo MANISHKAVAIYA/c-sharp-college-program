@@ -1,0 +1,14 @@
+D:\c sharp program\inputuser\greater_num\bin\Debug\net8.0\greater_num.exe
+D:\c sharp program\inputuser\greater_num\bin\Debug\net8.0\greater_num.deps.json
+D:\c sharp program\inputuser\greater_num\bin\Debug\net8.0\greater_num.runtimeconfig.json
+D:\c sharp program\inputuser\greater_num\bin\Debug\net8.0\greater_num.dll
+D:\c sharp program\inputuser\greater_num\bin\Debug\net8.0\greater_num.pdb
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.AssemblyInfoInputs.cache
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.AssemblyInfo.cs
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.csproj.CoreCompileInputs.cache
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.dll
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\refint\greater_num.dll
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.pdb
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\greater_num.genruntimeconfig.cache
+D:\c sharp program\inputuser\greater_num\obj\Debug\net8.0\ref\greater_num.dll

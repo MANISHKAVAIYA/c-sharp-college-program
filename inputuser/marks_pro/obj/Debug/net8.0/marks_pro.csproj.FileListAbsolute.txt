@@ -1,0 +1,14 @@
+D:\c sharp program\inputuser\marks_pro\bin\Debug\net8.0\marks_pro.exe
+D:\c sharp program\inputuser\marks_pro\bin\Debug\net8.0\marks_pro.deps.json
+D:\c sharp program\inputuser\marks_pro\bin\Debug\net8.0\marks_pro.runtimeconfig.json
+D:\c sharp program\inputuser\marks_pro\bin\Debug\net8.0\marks_pro.dll
+D:\c sharp program\inputuser\marks_pro\bin\Debug\net8.0\marks_pro.pdb
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.AssemblyInfoInputs.cache
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.AssemblyInfo.cs
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.csproj.CoreCompileInputs.cache
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.dll
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\refint\marks_pro.dll
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.pdb
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\marks_pro.genruntimeconfig.cache
+D:\c sharp program\inputuser\marks_pro\obj\Debug\net8.0\ref\marks_pro.dll

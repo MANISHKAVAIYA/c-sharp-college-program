@@ -1,0 +1,14 @@
+D:\c sharp program\inputuser\if_state\bin\Debug\net8.0\if_state.exe
+D:\c sharp program\inputuser\if_state\bin\Debug\net8.0\if_state.deps.json
+D:\c sharp program\inputuser\if_state\bin\Debug\net8.0\if_state.runtimeconfig.json
+D:\c sharp program\inputuser\if_state\bin\Debug\net8.0\if_state.dll
+D:\c sharp program\inputuser\if_state\bin\Debug\net8.0\if_state.pdb
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.AssemblyInfoInputs.cache
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.AssemblyInfo.cs
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.csproj.CoreCompileInputs.cache
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.dll
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\refint\if_state.dll
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.pdb
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\if_state.genruntimeconfig.cache
+D:\c sharp program\inputuser\if_state\obj\Debug\net8.0\ref\if_state.dll
