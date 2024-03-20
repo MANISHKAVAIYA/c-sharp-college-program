@@ -1,0 +1,14 @@
+D:\c sharp program\practice code part 2\simple calculator\bin\Debug\net8.0\simple calculator.exe
+D:\c sharp program\practice code part 2\simple calculator\bin\Debug\net8.0\simple calculator.deps.json
+D:\c sharp program\practice code part 2\simple calculator\bin\Debug\net8.0\simple calculator.runtimeconfig.json
+D:\c sharp program\practice code part 2\simple calculator\bin\Debug\net8.0\simple calculator.dll
+D:\c sharp program\practice code part 2\simple calculator\bin\Debug\net8.0\simple calculator.pdb
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.AssemblyInfoInputs.cache
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.AssemblyInfo.cs
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.csproj.CoreCompileInputs.cache
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.dll
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\refint\simple calculator.dll
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.pdb
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\simple calculator.genruntimeconfig.cache
+D:\c sharp program\practice code part 2\simple calculator\obj\Debug\net8.0\ref\simple calculator.dll

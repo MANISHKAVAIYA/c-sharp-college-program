@@ -1,0 +1,14 @@
+D:\c sharp program\practice code part 2\loops practice part 1\bin\Debug\net8.0\loops practice part 1.exe
+D:\c sharp program\practice code part 2\loops practice part 1\bin\Debug\net8.0\loops practice part 1.deps.json
+D:\c sharp program\practice code part 2\loops practice part 1\bin\Debug\net8.0\loops practice part 1.runtimeconfig.json
+D:\c sharp program\practice code part 2\loops practice part 1\bin\Debug\net8.0\loops practice part 1.dll
+D:\c sharp program\practice code part 2\loops practice part 1\bin\Debug\net8.0\loops practice part 1.pdb
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.AssemblyInfoInputs.cache
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.AssemblyInfo.cs
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.csproj.CoreCompileInputs.cache
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.dll
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\refint\loops practice part 1.dll
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.pdb
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\loops practice part 1.genruntimeconfig.cache
+D:\c sharp program\practice code part 2\loops practice part 1\obj\Debug\net8.0\ref\loops practice part 1.dll
